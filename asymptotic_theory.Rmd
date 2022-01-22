@@ -1,0 +1,19 @@
+---
+title: "Asymptotic Theory"
+output: 
+  html_document:
+    toc: TRUE
+    toc_float: TRUE
+    theme: yeti
+    highlight: zenburn
+    code_folding: hide
+    css: style.css
+    includes:
+      in_header: header.html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Central Limit Theorem

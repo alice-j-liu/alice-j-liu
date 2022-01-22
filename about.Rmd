@@ -1,0 +1,164 @@
+---
+title: "About Me"
+output: 
+  html_document:
+    toc: TRUE
+    toc_float: TRUE
+    theme: yeti
+    highlight: zenburn
+    css: style.css
+    includes:
+      in_header: header.html
+---
+
+I am a highly motivated and enthusiastic young professional in the field of finance. As a statistician, I am eager to continue learning the theory and application of statistics and various fields of research. 
+
+I maintain a strong work ethic in both a relaxed and pressurized work environment, and work well both by myself and on a team. I possess strong communication and teaching skills, obtained through consulting working with a variety of different non-statisticians and being fully responsible for several undergraduate-level statistics courses.
+
+# Experience
+## Work
+**Quantitative Analytics Specialist**, Wells Fargo, 
+June 2020 - Present
+
+**Senior Analytics Intern**, Discover Financial Services, May 2019 - August 2019
+
+**Research Associate**, Defense Forensic Science Center, August 2016 - November 2017
+
+**Instructor**, University of Virginia, May 2016 - August 2018
+
+## Research
+**Graduate Research Assistant**, University of Virginia, January 2016 - May 2020
+
+# Education
+**Ph.D.**, Statistics (GPA: 3.98), University of Virginia, August 2015 - May 2020
+
+**M.S.**, Statistics (GPA: 3.97), University of Virginia, August 2015 - May 2017
+
+**B.A.**, Statistics (GPA: 3.93) and Spanish (GPA: 3.61), University of Virginia, August 2011 - May 2015
+
+# Publications
+H. Swofford, F. Zemp, **A. Liu**, M. Salyards, Letter to the Editors regarding Neumann, C. ‘Defence against the
+modern arts: the curse of statistics: Part1–FRStat.’ Law, Probability, and Risk, 2020,
+DOI:10.1093/lpr/mgaa014.
+
+**A. Liu**, B. Garrett, K. Kafadar, J. Yaffe, Bringing new statistical approaches to eyewitness evidence,
+Handbook of Forensic Statistics, 2020.
+
+B. Garrett, **A. Liu**, C. Dodson, J. Yaffe, K. Kafadar, Sensitizing jurors to eyewitness confidence using judicial
+instructions, Journal of Experimental Psychology: Applied, (under review).
+
+B. Garrett, **A. Liu**, C. Dodson, J. Yaffe, K. Kafadar, Factoring the role of eyewitness evidence in the
+courtroom, Journal of Empirical Legal Studies, 2020, DOI:10.1111/jels.12259.
+
+H.J. Swofford, A.J. Koertner, F. Zemp, M. Ausdemore, **A. Liu**, M.J. Salyards, A method for the statistical
+interpretation of friction ridge skin impression evidence: Method development and validation, Forensic
+Science International, DOI:10.1016/j.forsciint.2018.03.043.
+
+# Conference Presentations
+Presented “Development of improved statistical methodology for eyewitness identification” at the Conference on Statistical Practice (CSP), New Orleans, Louisiana in Feb. 2019
+
+Presented “Development of improved statistical methodology for eyewitness identification” at the Joint Research Conference (JRC), Santa Fe, New Mexico in Jun. 2018Co-presented “The confidence inflation problem: what factors impact how jurors weight eyewitness
+evidence” at the Conference on Empirical Legal Studies in Europe (CELSE), Leuven, Belgium in May 2018
+
+Presented “Statistical Issues and Reliability in Eyewitness Identification” at a UVA interdisciplinary conference hosted by the QC in Apr. 2018
+
+Developed and presented a half-day workshop on introductory statistics to a latent print examiner audience of the Latent Print Section at the Virginia Department of Forensic Science, Richmond, VA in Oct. 2017
+
+Presented “A method for the statistical interpretation of friction ridge skin impression evidence” at the International Conference on Forensic Inference and Statistics (ICFIS), Minneapolis, MN in Sep. 2017
+
+# Awards
+Awarded the Joint Research Conference (JRC) Student Support Award for the JRC 2018 ($600 award)
+
+Awarded summer research fellowships by the Dept. of Statistics at UVA for 2016 and 2017 ($3000 awards)
+
+Awarded summer research fellowships by the Dept. of Statistics at UVA for 2018 ($6000 award)
+
+# Skills
+## Computer Languages
+* **Python**: Matplotlib, pandas, NumPy, scikit-learn, SciPy, TensorFlow, PySpark, seaborn, Dask, joblib
+* **R**: base packages, randomForest, ggplot2, nnet, caret, lme4
+* **$\LaTeX$**
+* **SAS**
+* **SQL**
+* **MATLAB**
+* **HTML**
+* **CSS**
+
+## Applications
+* RStudio
+* SAS Enterprise Guide
+* $\LaTeX$
+* MATLAB
+* JupyterLab
+* Spyder
+* MS tools (Office, Excel, PowerPoint, Outlook, Skype, Teams)
+* Symphony
+* Spark
+* GitHub
+* Jira
+* WinSCP 
+* PuTTY
+* Mathematica
+
+## Data Analysis
+* Predictive modeling
+* General linear modeling (multiple linear regression, logistic regression, mixed linear models, lasso regression, ridge regression, elastic net regression)
+* Data mining and machine
+learning methods (linear and quadratic discriminant analysis, neural networks, support vector machines or SVMs, random forests, decision trees, gradient boosting machines, XGBoost, feedforward neural networks)
+* Exploratory data analysis methods
+(stem-and-leaf plots, boxplots, quantile plots, letter-value plots)
+* Design of experiments (balanced design,
+factorial design, fractional factorial design, split-plot design)
+* Cluster analysis (k-means, k-nearest neighbors,
+principal components analysis or PCA)
+* Robust analysis methods (g- and h- distributions, power transformations, median polish)
+* Analysis of categorical and ordinal data
+* Interpretable machine learning
+methods (partial dependence plots or PDPs, Shapley additive explanations or SHAP values, accumulated local effects or ALE plots, accumulated total derivative effects or ATDEV plots)
+
+## Language
+* Fluent in English (native language)
+* Limited working proficiency in Spanish
+* Conversational verbal proficiency in Mandarin Chinese
+
+## Miscellaneous
+* Strong verbal and written communication skills
+* Exceptional problem solving abilities
+* Excellent team player
+* Project management and leadership skills
+* Strong technical writing skills
+* Highly organized
+* Superb at bridging the gap between statisticians and non-statisticians
+
+# Interests
+
+## Professional
+* Application of statistics in forensic science and other fields of study
+* Interdisciplinary work that focuses on specific applications of statistics with the intent to develop more
+sound and effective statistical methods
+* Proliferation of appropriate application of statistical: methodology and general statistical literacy
+
+## Personal
+I absolutely love my two dogs and two cats.
+
+```{r magnolia, echo=FALSE, fig.cap="Magnolia", out.width = '75%', fig.align = 'center'}
+knitr::include_graphics("images/magnolia.jpg")
+```
+
+```{r olive, echo=FALSE, fig.cap="Olive", out.width = '75%', fig.align = 'center'}
+knitr::include_graphics("images/olive.jpg")
+```
+
+```{r zinnia, echo=FALSE, fig.cap="Zinnia", out.width = '75%', fig.align = 'center'}
+knitr::include_graphics("images/zinnia.jpg")
+```
+
+```{r clover, echo=FALSE, fig.cap="Clover", out.width = '75%', fig.align = 'center'}
+knitr::include_graphics("images/clover.jpg")
+```
+
+# Membership
+* Member of the [American Statistical Association (ASA)](https://www.amstat.org/) since 2015
+* Member of the [Institute of Mathematical Statistics (IMS)](https://imstat.org/) since 2019
+* [Center for Statistics and Applications in Forensic Science (CSAFE)](https://forensicstats.org/) graduate student affiliate from 2016
+to 2020

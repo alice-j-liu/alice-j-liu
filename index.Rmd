@@ -1,0 +1,16 @@
+---
+title: "Alice J. Liu"
+output: 
+  html_document:
+    toc: FALSE
+    toc_float: TRUE
+    theme: yeti
+    highlight: zenburn
+    css: style.css
+    includes:
+      in_header: header.html
+---
+
+Hi! My name is **Alice Liu**. I am a **statistician** with a Ph.D. in Statistics from the University of Virginia. I am currently a **Quantitative Analytics Specialist** at Wells Fargo. [Learn more about me](about.html).
+
+This site is still under construction.

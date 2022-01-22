@@ -1,0 +1,75 @@
+---
+title: "Probability Distributions"
+output: 
+  html_document:
+    toc: TRUE
+    toc_float: TRUE
+    theme: flatly
+    highlight: zenburn
+    code_folding: hide
+    css: style.css
+    includes:
+      in_header: header.html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Continuous Distributions
+
+## Normal
+Characteristic | Description
+-------------- | -----------
+Type of distribution | Continuous
+Notation | $$N(\mu, \sigma^2)$$
+Support | $$x \in \mathbb{R}$$
+Probability density function | $$\frac{1}{\sqrt{2\pi\sigma^2}} \exp\left(-\frac{1}{2}(\frac{x - \mu}{\sigma})^2\right)$$
+Moment generating function | $$\exp\left(\mu t + \frac{\sigma^2t^2}{2}\right)$$
+Characteristic function | $$\exp\left(i\mu t - \frac{\sigma^2t^2}{2}\right)$$
+Mean | $$\mu$$
+Median | $$\mu$$
+Mode | $$\mu$$
+Variance | $$\sigma^2$$
+Skewness | 0
+Entropy | $$\frac{1}{2} \log(2\pi\sigma^2) + \frac{1}{2}$$
+Fisher information | $$\mathcal{I}(\mu, \sigma) = \begin{pmatrix} 1/\sigma^2 & 0 \\ 0 & 2/\sigma^2 \end{pmatrix}$$
+Central moments | .
+Non-central moments | .
+
+## Exponential
+Characteristic | Description
+-------------- | -----------
+Type of distribution | Continuous
+Notation | .
+Support | .
+Probability density function | .
+Moment generating function | .
+Characteristic function | .
+Mean | .
+Median | .
+Mode | .
+Variance | .
+Skewness | .
+Entropy | .
+Fisher information | .
+Central moments | .
+Non-central moments | .
+
+## Gamma
+
+## Uniform
+
+## Beta
+
+# Discrete Distributions
+
+## Binomial
+
+## Poisson
+
+## Negative Binomial
+
+## Geometric
+
+## Multinomial
