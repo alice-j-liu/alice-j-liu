@@ -1,0 +1,36 @@
+name: "Alice J. Liu"
+navbar:
+  title: "Alice J. Liu"
+  type: inverse
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Probability"
+      menu:
+        - text: "Probability Distributions"
+          href: probability_distributions.html
+        - text: "Axioms of Probability"
+        - text: "Conditional Probability"
+    - text: "Asymptotic Theory"
+      href: asymptotic_theory.html
+    - text: "Models"
+      menu:
+        - text: "Generalized Linear Models"
+          href: glm.html
+        - text: "Machine Learning Models"
+          menu:
+            - text: "Supervised Machine Learning Models"
+            - text: "Unsupervised Machine Learning Models"
+            - text: "Machine Learning Interpretability"
+    - text: "Exploratory Data Analysis"
+      menu:
+        - text: "Plotting Methods"
+  right:
+    - icon: fab fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/alice-j-liu/
+    - icon: fab fa-github-square fa-lg
+      href: https://github.com/alice-j-liu
+    - icon: fas fa-envelope-square fa-lg
+      href: mailto:alice.liu13@gmail.com
